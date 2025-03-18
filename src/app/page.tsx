@@ -22,7 +22,7 @@ export default function Home() {
       </div>
       <div className="flex flex-col gap-6 pb-10">
         <Button asChild variant="secondary">
-          <Link href="/signup">Sign Up</Link>
+          <Link href="/getstarted">Sign Up</Link>
         </Button>
         <Button asChild>
           <Link href="/login">Login</Link>
